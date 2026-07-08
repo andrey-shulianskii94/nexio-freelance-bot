@@ -48,22 +48,26 @@ python main.py
 
 ## 📁 Структура проекта
 nexio-freelance-bot/
-├── main.py                    # Точка входа, планировщик
+├── main.py                     # Точка входа, планировщик
+├── config.py                   # Конфигурация
 ├── gui/
-│   ├── window.py              # Главное окно (Violet Midnight)
-│   ├── channel_finder_tab.py  # Вкладка поиска каналов
-│   └── splash.py              # Экран загрузки
+│   ├── window.py               # Главное окно (Violet Midnight)
+│   ├── channel_finder_tab.py   # Вкладка поиска каналов
+│   └── splash.py               # Экран загрузки
 ├── parsers/
-│   ├── telegram_parser.py     # Парсинг Telegram
-│   ├── channel_finder.py      # Поиск каналов
-│   └── vk_parser.py           # Парсинг ВКонтакте
+│   ├── telegram_parser.py      # Парсинг Telegram
+│   ├── channel_finder.py       # Поиск каналов
+│   ├── channel_scout.py        # Разведка каналов
+│   └── vk_parser.py            # Парсинг ВКонтакте
 ├── filters/
-│   ├── classifier.py          # Классификатор HOT/COLD/SPAM
-│   └── smart_filter.py        # Умная фильтрация
+│   ├── classifier.py           # Классификатор HOT/COLD/SPAM
+│   └── smart_filter.py         # Умная фильтрация
 ├── export/
-│   └── excel_export.py        # Выгрузка в Excel
-└── .env.example               # Шаблон переменных
----
+│   └── excel_export.py         # Выгрузка в Excel
+├── sender/
+│   └── message_sender.py       # Отправка уведомлений
+├── data/                       # Кэш и результаты (в .gitignore)
+└── .env.example                # Шаблон переменных окружения
 
 ## 👤 Автор
 
