@@ -1,4 +1,4 @@
-﻿# 🚀 Nexio — Freelance Intelligence Bot
+# 🚀 Nexio — Freelance Intelligence Bot
 
 > Умный помощник для фрилансеров: автоматический поиск заказов в Telegram и ВКонтакте с классификацией и уведомлениями.
 
@@ -36,18 +36,18 @@
 
 ## 🚀 Быстрый старт
 
-```bash
+\\ash
 git clone https://github.com/andrey-shulianskii94/nexio-freelance-bot.git
 cd nexio-freelance-bot
 pip install -r requirements.txt
 cp .env.example .env
 python main.py
-```
-
+\
 ---
 
 ## 📁 Структура проекта
-nexio-freelance-bot/
+
+\nexio-freelance-bot/
 ├── main.py                     # Точка входа, планировщик
 ├── config.py                   # Конфигурация
 ├── gui/
@@ -68,6 +68,8 @@ nexio-freelance-bot/
 │   └── message_sender.py       # Отправка уведомлений
 ├── data/                       # Кэш и результаты (в .gitignore)
 └── .env.example                # Шаблон переменных окружения
+\
+---
 
 ## 👤 Автор
 
