@@ -1,0 +1,865 @@
+{
+  "total": 32,
+  "channels": {
+    "aiogram_jobs": {
+      "username": "aiogram_jobs",
+      "link": "https://t.me/aiogram_jobs",
+      "verified": true,
+      "joined": false
+    },
+    "angular_jobs_feed": {
+      "username": "angular_jobs_feed",
+      "link": "https://t.me/angular_jobs_feed",
+      "verified": true,
+      "joined": false
+    },
+    "avito_jobs": {
+      "username": "avito_jobs",
+      "link": "https://t.me/avito_jobs",
+      "verified": true,
+      "joined": false
+    },
+    "bot_freelance": {
+      "username": "bot_freelance",
+      "link": "https://t.me/bot_freelance",
+      "verified": true,
+      "joined": false
+    },
+    "bot_jobs": {
+      "username": "bot_jobs",
+      "link": "https://t.me/bot_jobs",
+      "verified": true,
+      "joined": false
+    },
+    "designjobs": {
+      "username": "designjobs",
+      "link": "https://t.me/designjobs",
+      "verified": true,
+      "joined": false
+    },
+    "devops_jobs_feed": {
+      "username": "devops_jobs_feed",
+      "link": "https://t.me/devops_jobs_feed",
+      "verified": true,
+      "joined": false
+    },
+    "django_jobs_board": {
+      "username": "django_jobs_board",
+      "link": "https://t.me/django_jobs_board",
+      "verified": true,
+      "joined": false
+    },
+    "freelance_orders": {
+      "username": "freelance_orders",
+      "link": "https://t.me/freelance_orders",
+      "verified": true,
+      "joined": false
+    },
+    "freelance_tg": {
+      "username": "freelance_tg",
+      "link": "https://t.me/freelance_tg",
+      "verified": true,
+      "joined": false
+    },
+    "it_remote": {
+      "username": "it_remote",
+      "link": "https://t.me/it_remote",
+      "verified": true,
+      "joined": false
+    },
+    "it_vacancy": {
+      "username": "it_vacancy",
+      "link": "https://t.me/it_vacancy",
+      "verified": true,
+      "joined": false
+    },
+    "java_jobs_ru": {
+      "username": "java_jobs_ru",
+      "link": "https://t.me/java_jobs_ru",
+      "verified": true,
+      "joined": false
+    },
+    "javascript_jobs_feed": {
+      "username": "javascript_jobs_feed",
+      "link": "https://t.me/javascript_jobs_feed",
+      "verified": true,
+      "joined": false
+    },
+    "marketplace_jobs": {
+      "username": "marketplace_jobs",
+      "link": "https://t.me/marketplace_jobs",
+      "verified": true,
+      "joined": false
+    },
+    "nodejs_jobs_feed": {
+      "username": "nodejs_jobs_feed",
+      "link": "https://t.me/nodejs_jobs_feed",
+      "verified": true,
+      "joined": false
+    },
+    "nodejsjobsfeed": {
+      "username": "nodejsjobsfeed",
+      "link": "https://t.me/nodejsjobsfeed",
+      "verified": true,
+      "joined": false
+    },
+    "ozon_jobs": {
+      "username": "ozon_jobs",
+      "link": "https://t.me/ozon_jobs",
+      "verified": true,
+      "joined": false
+    },
+    "python_freelance": {
+      "username": "python_freelance",
+      "link": "https://t.me/python_freelance",
+      "verified": true,
+      "joined": false
+    },
+    "qa_guru": {
+      "username": "qa_guru",
+      "link": "https://t.me/qa_guru",
+      "verified": true,
+      "joined": false
+    },
+    "qa_guru_reviews": {
+      "username": "qa_guru_reviews",
+      "link": "https://t.me/qa_guru_reviews",
+      "verified": true,
+      "joined": false
+    },
+    "remote_jobs_ru": {
+      "username": "remote_jobs_ru",
+      "link": "https://t.me/remote_jobs_ru",
+      "verified": true,
+      "joined": false
+    },
+    "seller_jobs": {
+      "username": "seller_jobs",
+      "link": "https://t.me/seller_jobs",
+      "verified": true,
+      "joined": false
+    },
+    "serious_tester": {
+      "username": "serious_tester",
+      "link": "https://t.me/serious_tester",
+      "verified": true,
+      "joined": false
+    },
+    "smm_ru": {
+      "username": "smm_ru",
+      "link": "https://t.me/smm_ru",
+      "verified": true,
+      "joined": false
+    },
+    "tgbotwork": {
+      "username": "tgbotwork",
+      "link": "https://t.me/tgbotwork",
+      "verified": true,
+      "joined": false
+    },
+    "wb_content": {
+      "username": "wb_content",
+      "link": "https://t.me/wb_content",
+      "verified": true,
+      "joined": false
+    },
+    "wb_freelance": {
+      "username": "wb_freelance",
+      "link": "https://t.me/wb_freelance",
+      "verified": true,
+      "joined": false
+    },
+    "wb_jobs": {
+      "username": "wb_jobs",
+      "link": "https://t.me/wb_jobs",
+      "verified": true,
+      "joined": false
+    },
+    "webdev_jobs": {
+      "username": "webdev_jobs",
+      "link": "https://t.me/webdev_jobs",
+      "verified": true,
+      "joined": false
+    },
+    "workasap": {
+      "username": "workasap",
+      "link": "https://t.me/workasap",
+      "verified": true,
+      "joined": false
+    },
+    "workzavr": {
+      "username": "workzavr",
+      "link": "https://t.me/workzavr",
+      "verified": true,
+      "joined": false
+    }
+  },
+  "unverified": {
+    "alterwork": {
+      "username": "alterwork",
+      "link": "https://t.me/alterwork",
+      "verified": false,
+      "joined": false
+    },
+    "android_jobs_ru": {
+      "username": "android_jobs_ru",
+      "link": "https://t.me/android_jobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "angular_jobs": {
+      "username": "angular_jobs",
+      "link": "https://t.me/angular_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "angular_ru": {
+      "username": "angular_ru",
+      "link": "https://t.me/angular_ru",
+      "verified": false,
+      "joined": false
+    },
+    "angular_universal_ru": {
+      "username": "angular_universal_ru",
+      "link": "https://t.me/angular_universal_ru",
+      "verified": false,
+      "joined": false
+    },
+    "angulardima": {
+      "username": "angulardima",
+      "link": "https://t.me/angulardima",
+      "verified": false,
+      "joined": false
+    },
+    "automation_jobs": {
+      "username": "automation_jobs",
+      "link": "https://t.me/automation_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "avito_freelance": {
+      "username": "avito_freelance",
+      "link": "https://t.me/avito_freelance",
+      "verified": false,
+      "joined": false
+    },
+    "backend_jobs_en": {
+      "username": "backend_jobs_en",
+      "link": "https://t.me/backend_jobs_en",
+      "verified": false,
+      "joined": false
+    },
+    "backend_jobs_ru": {
+      "username": "backend_jobs_ru",
+      "link": "https://t.me/backend_jobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "boomrangdesignstudio": {
+      "username": "boomrangdesignstudio",
+      "link": "https://t.me/boomrangdesignstudio",
+      "verified": false,
+      "joined": false
+    },
+    "bot_jobs_ru": {
+      "username": "bot_jobs_ru",
+      "link": "https://t.me/bot_jobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "botmakers": {
+      "username": "botmakers",
+      "link": "https://t.me/botmakers",
+      "verified": false,
+      "joined": false
+    },
+    "content_jobs_ru": {
+      "username": "content_jobs_ru",
+      "link": "https://t.me/content_jobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "copywrite_jobs": {
+      "username": "copywrite_jobs",
+      "link": "https://t.me/copywrite_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "copywriters_ru": {
+      "username": "copywriters_ru",
+      "link": "https://t.me/copywriters_ru",
+      "verified": false,
+      "joined": false
+    },
+    "copywriting_jobs": {
+      "username": "copywriting_jobs",
+      "link": "https://t.me/copywriting_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "data_jobs_ru": {
+      "username": "data_jobs_ru",
+      "link": "https://t.me/data_jobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "design_jobs_ru": {
+      "username": "design_jobs_ru",
+      "link": "https://t.me/design_jobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "dev_jobs_global": {
+      "username": "dev_jobs_global",
+      "link": "https://t.me/dev_jobs_global",
+      "verified": false,
+      "joined": false
+    },
+    "devjobs_ru": {
+      "username": "devjobs_ru",
+      "link": "https://t.me/devjobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "devops_jobs": {
+      "username": "devops_jobs",
+      "link": "https://t.me/devops_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "devops_ru": {
+      "username": "devops_ru",
+      "link": "https://t.me/devops_ru",
+      "verified": false,
+      "joined": false
+    },
+    "django_job": {
+      "username": "django_job",
+      "link": "https://t.me/django_job",
+      "verified": false,
+      "joined": false
+    },
+    "django_jobs": {
+      "username": "django_jobs",
+      "link": "https://t.me/django_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "ecom_jobs_ru": {
+      "username": "ecom_jobs_ru",
+      "link": "https://t.me/ecom_jobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "excel_jobs_ru": {
+      "username": "excel_jobs_ru",
+      "link": "https://t.me/excel_jobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "fl_jobs_ru": {
+      "username": "fl_jobs_ru",
+      "link": "https://t.me/fl_jobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "fr_dev3": {
+      "username": "fr_dev3",
+      "link": "https://t.me/fr_dev3",
+      "verified": false,
+      "joined": false
+    },
+    "freelance_board": {
+      "username": "freelance_board",
+      "link": "https://t.me/freelance_board",
+      "verified": false,
+      "joined": false
+    },
+    "freelance_chat_ru": {
+      "username": "freelance_chat_ru",
+      "link": "https://t.me/freelance_chat_ru",
+      "verified": false,
+      "joined": false
+    },
+    "freelance_en": {
+      "username": "freelance_en",
+      "link": "https://t.me/freelance_en",
+      "verified": false,
+      "joined": false
+    },
+    "freelance_hayr": {
+      "username": "freelance_hayr",
+      "link": "https://t.me/freelance_hayr",
+      "verified": false,
+      "joined": false
+    },
+    "freelance_python": {
+      "username": "freelance_python",
+      "link": "https://t.me/freelance_python",
+      "verified": false,
+      "joined": false
+    },
+    "freelance_ru": {
+      "username": "freelance_ru",
+      "link": "https://t.me/freelance_ru",
+      "verified": false,
+      "joined": false
+    },
+    "freelancejobs_ru": {
+      "username": "freelancejobs_ru",
+      "link": "https://t.me/freelancejobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "frontend_dzima": {
+      "username": "frontend_dzima",
+      "link": "https://t.me/frontend_dzima",
+      "verified": false,
+      "joined": false
+    },
+    "frontend_jobs_ru": {
+      "username": "frontend_jobs_ru",
+      "link": "https://t.me/frontend_jobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "fullstack_jobs": {
+      "username": "fullstack_jobs",
+      "link": "https://t.me/fullstack_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "golang_jobs": {
+      "username": "golang_jobs",
+      "link": "https://t.me/golang_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "golang_ru": {
+      "username": "golang_ru",
+      "link": "https://t.me/golang_ru",
+      "verified": false,
+      "joined": false
+    },
+    "ios_jobs_ru": {
+      "username": "ios_jobs_ru",
+      "link": "https://t.me/ios_jobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "it_jobs_ru": {
+      "username": "it_jobs_ru",
+      "link": "https://t.me/it_jobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "javascript_jobs": {
+      "username": "javascript_jobs",
+      "link": "https://t.me/javascript_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "jobs_tg_ru": {
+      "username": "jobs_tg_ru",
+      "link": "https://t.me/jobs_tg_ru",
+      "verified": false,
+      "joined": false
+    },
+    "juliaz_work": {
+      "username": "juliaz_work",
+      "link": "https://t.me/juliaz_work",
+      "verified": false,
+      "joined": false
+    },
+    "kanal_freelance": {
+      "username": "kanal_freelance",
+      "link": "https://t.me/kanal_freelance",
+      "verified": false,
+      "joined": false
+    },
+    "landing_jobs": {
+      "username": "landing_jobs",
+      "link": "https://t.me/landing_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "landingpage_jobs": {
+      "username": "landingpage_jobs",
+      "link": "https://t.me/landingpage_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "marketing_jobs_ru": {
+      "username": "marketing_jobs_ru",
+      "link": "https://t.me/marketing_jobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "marketplace_freelance": {
+      "username": "marketplace_freelance",
+      "link": "https://t.me/marketplace_freelance",
+      "verified": false,
+      "joined": false
+    },
+    "mobile_jobs": {
+      "username": "mobile_jobs",
+      "link": "https://t.me/mobile_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "mobile_jobs_feed": {
+      "username": "mobile_jobs_feed",
+      "link": "https://t.me/mobile_jobs_feed",
+      "verified": false,
+      "joined": false
+    },
+    "mp_jobs_ru": {
+      "username": "mp_jobs_ru",
+      "link": "https://t.me/mp_jobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "no_code_jobs": {
+      "username": "no_code_jobs",
+      "link": "https://t.me/no_code_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "nodejs_jobs": {
+      "username": "nodejs_jobs",
+      "link": "https://t.me/nodejs_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "nodejs_ru": {
+      "username": "nodejs_ru",
+      "link": "https://t.me/nodejs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "opisanie_tovarov": {
+      "username": "opisanie_tovarov",
+      "link": "https://t.me/opisanie_tovarov",
+      "verified": false,
+      "joined": false
+    },
+    "ozon_content": {
+      "username": "ozon_content",
+      "link": "https://t.me/ozon_content",
+      "verified": false,
+      "joined": false
+    },
+    "ozon_freelance": {
+      "username": "ozon_freelance",
+      "link": "https://t.me/ozon_freelance",
+      "verified": false,
+      "joined": false
+    },
+    "parser_jobs": {
+      "username": "parser_jobs",
+      "link": "https://t.me/parser_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "parsing_jobs": {
+      "username": "parsing_jobs",
+      "link": "https://t.me/parsing_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "photo_jobs_ru": {
+      "username": "photo_jobs_ru",
+      "link": "https://t.me/photo_jobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "products_jobs": {
+      "username": "products_jobs",
+      "link": "https://t.me/products_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "pydjango": {
+      "username": "pydjango",
+      "link": "https://t.me/pydjango",
+      "verified": false,
+      "joined": false
+    },
+    "python_job": {
+      "username": "python_job",
+      "link": "https://t.me/python_job",
+      "verified": false,
+      "joined": false
+    },
+    "python_jobs": {
+      "username": "python_jobs",
+      "link": "https://t.me/python_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "python_jobs_en": {
+      "username": "python_jobs_en",
+      "link": "https://t.me/python_jobs_en",
+      "verified": false,
+      "joined": false
+    },
+    "python_scripts": {
+      "username": "python_scripts",
+      "link": "https://t.me/python_scripts",
+      "verified": false,
+      "joined": false
+    },
+    "qa_automation": {
+      "username": "qa_automation",
+      "link": "https://t.me/qa_automation",
+      "verified": false,
+      "joined": false
+    },
+    "qa_bad_company": {
+      "username": "qa_bad_company",
+      "link": "https://t.me/qa_bad_company",
+      "verified": false,
+      "joined": false
+    },
+    "qa_courses": {
+      "username": "qa_courses",
+      "link": "https://t.me/qa_courses",
+      "verified": false,
+      "joined": false
+    },
+    "qa_fin": {
+      "username": "qa_fin",
+      "link": "https://t.me/qa_fin",
+      "verified": false,
+      "joined": false
+    },
+    "qa_guru_chat": {
+      "username": "qa_guru_chat",
+      "link": "https://t.me/qa_guru_chat",
+      "verified": false,
+      "joined": false
+    },
+    "qa_guru_sales1": {
+      "username": "qa_guru_sales1",
+      "link": "https://t.me/qa_guru_sales1",
+      "verified": false,
+      "joined": false
+    },
+    "qa_guru_support": {
+      "username": "qa_guru_support",
+      "link": "https://t.me/qa_guru_support",
+      "verified": false,
+      "joined": false
+    },
+    "qa_jobs": {
+      "username": "qa_jobs",
+      "link": "https://t.me/qa_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "qa_jobs_ru": {
+      "username": "qa_jobs_ru",
+      "link": "https://t.me/qa_jobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "qa_resumes": {
+      "username": "qa_resumes",
+      "link": "https://t.me/qa_resumes",
+      "verified": false,
+      "joined": false
+    },
+    "qa_ru": {
+      "username": "qa_ru",
+      "link": "https://t.me/qa_ru",
+      "verified": false,
+      "joined": false
+    },
+    "react_js": {
+      "username": "react_js",
+      "link": "https://t.me/react_js",
+      "verified": false,
+      "joined": false
+    },
+    "reactnative_ru": {
+      "username": "reactnative_ru",
+      "link": "https://t.me/reactnative_ru",
+      "verified": false,
+      "joined": false
+    },
+    "remotejobs_en": {
+      "username": "remotejobs_en",
+      "link": "https://t.me/remotejobs_en",
+      "verified": false,
+      "joined": false
+    },
+    "ruby_jobs": {
+      "username": "ruby_jobs",
+      "link": "https://t.me/ruby_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "ruby_ru": {
+      "username": "ruby_ru",
+      "link": "https://t.me/ruby_ru",
+      "verified": false,
+      "joined": false
+    },
+    "scraping_jobs": {
+      "username": "scraping_jobs",
+      "link": "https://t.me/scraping_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "selfdev_ru": {
+      "username": "selfdev_ru",
+      "link": "https://t.me/selfdev_ru",
+      "verified": false,
+      "joined": false
+    },
+    "seo_jobs_ru": {
+      "username": "seo_jobs_ru",
+      "link": "https://t.me/seo_jobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "sheets_jobs": {
+      "username": "sheets_jobs",
+      "link": "https://t.me/sheets_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "site_jobs_ru": {
+      "username": "site_jobs_ru",
+      "link": "https://t.me/site_jobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "smm_jobs_ru": {
+      "username": "smm_jobs_ru",
+      "link": "https://t.me/smm_jobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "targetolog_ru": {
+      "username": "targetolog_ru",
+      "link": "https://t.me/targetolog_ru",
+      "verified": false,
+      "joined": false
+    },
+    "telegram_bot_jobs": {
+      "username": "telegram_bot_jobs",
+      "link": "https://t.me/telegram_bot_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "text_jobs_ru": {
+      "username": "text_jobs_ru",
+      "link": "https://t.me/text_jobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "tg_jobs": {
+      "username": "tg_jobs",
+      "link": "https://t.me/tg_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "tgbot_jobs": {
+      "username": "tgbot_jobs",
+      "link": "https://t.me/tgbot_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "tgfrelance": {
+      "username": "tgfrelance",
+      "link": "https://t.me/tgfrelance",
+      "verified": false,
+      "joined": false
+    },
+    "uiux_jobs": {
+      "username": "uiux_jobs",
+      "link": "https://t.me/uiux_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "uiux_ru": {
+      "username": "uiux_ru",
+      "link": "https://t.me/uiux_ru",
+      "verified": false,
+      "joined": false
+    },
+    "ux_jobs_ru": {
+      "username": "ux_jobs_ru",
+      "link": "https://t.me/ux_jobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "video_jobs_ru": {
+      "username": "video_jobs_ru",
+      "link": "https://t.me/video_jobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "vuejs_ru": {
+      "username": "vuejs_ru",
+      "link": "https://t.me/vuejs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "wb_content_jobs": {
+      "username": "wb_content_jobs",
+      "link": "https://t.me/wb_content_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "web_freelance_ru": {
+      "username": "web_freelance_ru",
+      "link": "https://t.me/web_freelance_ru",
+      "verified": false,
+      "joined": false
+    },
+    "web_python_jobs": {
+      "username": "web_python_jobs",
+      "link": "https://t.me/web_python_jobs",
+      "verified": false,
+      "joined": false
+    },
+    "wildberries_work": {
+      "username": "wildberries_work",
+      "link": "https://t.me/wildberries_work",
+      "verified": false,
+      "joined": false
+    },
+    "wordpress_jobs_ru": {
+      "username": "wordpress_jobs_ru",
+      "link": "https://t.me/wordpress_jobs_ru",
+      "verified": false,
+      "joined": false
+    },
+    "workforme_ru": {
+      "username": "workforme_ru",
+      "link": "https://t.me/workforme_ru",
+      "verified": false,
+      "joined": false
+    },
+    "worknow_ru": {
+      "username": "worknow_ru",
+      "link": "https://t.me/worknow_ru",
+      "verified": false,
+      "joined": false
+    },
+    "zakaz_it": {
+      "username": "zakaz_it",
+      "link": "https://t.me/zakaz_it",
+      "verified": false,
+      "joined": false
+    },
+    "zakazchiki_ru": {
+      "username": "zakazchiki_ru",
+      "link": "https://t.me/zakazchiki_ru",
+      "verified": false,
+      "joined": false
+    }
+  }
+}

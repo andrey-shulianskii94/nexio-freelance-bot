@@ -1,0 +1,207 @@
+{
+  "RU": {
+    "javascript_jobs_feed": {
+      "username": "javascript_jobs_feed",
+      "title": "JavaScript Jobs — вакансии и резюме",
+      "members": 14808,
+      "lang": "RU",
+      "link": "https://t.me/javascript_jobs_feed",
+      "joined": false,
+      "is_urgent": false,
+      "score": 60
+    },
+    "devops_jobs_feed": {
+      "username": "devops_jobs_feed",
+      "title": "Devops Jobs — вакансии и резюме",
+      "members": 20912,
+      "lang": "RU",
+      "link": "https://t.me/devops_jobs_feed",
+      "joined": false,
+      "is_urgent": false,
+      "score": 60
+    },
+    "nodejsjobsfeed": {
+      "username": "nodejsjobsfeed",
+      "title": "NodeJS Jobs канал вакансий и резюме",
+      "members": 3433,
+      "lang": "RU",
+      "link": "https://t.me/nodejsjobsfeed",
+      "joined": false,
+      "is_urgent": false,
+      "score": 60
+    },
+    "django_jobs_board": {
+      "username": "django_jobs_board",
+      "title": "django_jobs_board",
+      "members": 1948,
+      "lang": "RU",
+      "link": "https://t.me/django_jobs_board",
+      "joined": false,
+      "is_urgent": false,
+      "score": 60
+    },
+    "serious_tester": {
+      "username": "serious_tester",
+      "title": "Серьезный тестировщик 🐞",
+      "members": 30537,
+      "lang": "RU",
+      "link": "https://t.me/serious_tester",
+      "joined": false,
+      "is_urgent": false,
+      "score": 60
+    },
+    "remote_jobs_ru": {
+      "username": "remote_jobs_ru",
+      "title": "Remote вакансии | Удалёнка без РФ",
+      "members": 124,
+      "lang": "RU",
+      "link": "https://t.me/remote_jobs_ru",
+      "joined": false,
+      "is_urgent": false,
+      "score": 60
+    },
+    "workasap": {
+      "username": "workasap",
+      "title": "Работа в диджитал и медиа",
+      "members": 72038,
+      "lang": "RU",
+      "link": "https://t.me/workasap",
+      "joined": false,
+      "is_urgent": true,
+      "score": 80
+    },
+    "avito_jobs": {
+      "username": "avito_jobs",
+      "title": "Авито Работа",
+      "members": 22046,
+      "lang": "RU",
+      "link": "https://t.me/avito_jobs",
+      "joined": false,
+      "is_urgent": false,
+      "score": 60
+    },
+    "qa_guru": {
+      "username": "qa_guru",
+      "title": "QA.GURU — школа автоматизации тестирования",
+      "members": 2587,
+      "lang": "RU",
+      "link": "https://t.me/qa_guru",
+      "joined": false,
+      "is_urgent": false,
+      "score": 60
+    },
+    "-1001063542127": {
+      "username": "",
+      "title": "Воркзавр🐱| фриланс, вакансии, удаленка",
+      "members": 209473,
+      "lang": "RU",
+      "link": "",
+      "joined": false,
+      "is_urgent": false,
+      "score": 60
+    },
+    "angular_jobs_feed": {
+      "username": "angular_jobs_feed",
+      "title": "Angular Jobs — вакансии и резюме",
+      "members": 2096,
+      "lang": "RU",
+      "link": "https://t.me/angular_jobs_feed",
+      "joined": false,
+      "is_urgent": false,
+      "score": 60
+    },
+    "-1001223638703": {
+      "username": "",
+      "title": "Удаленная работа в IT",
+      "members": 1120,
+      "lang": "RU",
+      "link": "",
+      "joined": false,
+      "is_urgent": false,
+      "score": 60
+    },
+    "qa_guru_reviews": {
+      "username": "qa_guru_reviews",
+      "title": "QA.GURU | Отзывы",
+      "members": 279,
+      "lang": "RU",
+      "link": "https://t.me/qa_guru_reviews",
+      "joined": false,
+      "is_urgent": false,
+      "score": 60
+    },
+    "-1001535757311": {
+      "username": "",
+      "title": "Воркзавр Фриланс | Удалёнка | Работа | Workzilla",
+      "members": 9341,
+      "lang": "RU",
+      "link": "",
+      "joined": false,
+      "is_urgent": false,
+      "score": 60
+    },
+    "freelance_orders": {
+      "username": "freelance_orders",
+      "title": "Фриланс-проекты для работы",
+      "members": 189,
+      "lang": "RU",
+      "link": "https://t.me/freelance_orders",
+      "joined": false,
+      "is_urgent": false,
+      "score": 60
+    },
+    "nodejs_jobs_feed": {
+      "username": "nodejs_jobs_feed",
+      "title": "Node.js Jobs — вакансии и резюме",
+      "members": 134,
+      "lang": "RU",
+      "link": "https://t.me/nodejs_jobs_feed",
+      "joined": false,
+      "is_urgent": false,
+      "score": 60
+    },
+    "smm_ru": {
+      "username": "smm_ru",
+      "title": "Smm room",
+      "members": 572,
+      "lang": "RU",
+      "link": "https://t.me/smm_ru",
+      "joined": false,
+      "is_urgent": false,
+      "score": 60
+    },
+    "java_jobs_ru": {
+      "username": "java_jobs_ru",
+      "title": "Java / Kotlin работа",
+      "members": 198,
+      "lang": "RU",
+      "link": "https://t.me/java_jobs_ru",
+      "joined": false,
+      "is_urgent": false,
+      "score": 60
+    }
+  },
+  "EN": {
+    "-1001439439110": {
+      "username": "",
+      "title": "Fragment Names Market // fragment bot names bot",
+      "members": 2013,
+      "lang": "EN",
+      "link": "",
+      "joined": false,
+      "is_urgent": false,
+      "score": 50
+    },
+    "designjobs": {
+      "username": "designjobs",
+      "title": "موقعيت هاي شغلي براي طراحان صنعتي",
+      "members": 1176,
+      "lang": "EN",
+      "link": "https://t.me/designjobs",
+      "joined": false,
+      "is_urgent": false,
+      "score": 60
+    }
+  },
+  "ES": {}
+}
